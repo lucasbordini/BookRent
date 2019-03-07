@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Favorite Movies</string>
+
+    <string name="welcome_message">Welcome to FavoritesMovies</string>
+    <string name="email">E-Mail</string>
+    <string name="password">Password</string>
+    <string name="name">Full name</string>
+    <string name="document">CPF number</string>
+    <string name="phone">Mobile number</string>
+    <string name="confirm_email">E-Mail confirmation</string>
+    <string name="confirm_password">Password confirmation</string>
+    <string name="register">Register</string>
+    <string name="login">Login</string>
+    <string name="confirm">Confirm</string>
+    <string name="cancel">Cancel</string>
+    <string name="invalid_login">Invalid username or password</string>
+    <string name="invalid_email">Invalid E-mail</string>
+    <string name="invalid_email_confirm">E-mail mismatch, please double check</string>
+    <string name="invalid_pass">Invalid password</string>
+    <string name="invalid_pass_confirm">Password mismatch, please double check</string>
+    <string name="invalid_document">Invalid CPF number</string>
+    <string name="invalid_phone">Invalid mobile number</string>
+    <string name="create_user_error">Error while creating a new user, verify the info provided and try again</string>
+    <string name="nav_movie_list">Movies</string>
+    <string name="nav_favorites">Favorites</string>
+    <string name="trailer_button"><u>Click here to watch the movie trailer</u></string>
+</resources>
